@@ -1,7 +1,7 @@
 //test to find username, level and score in local storage object
 
 // localStorageUtil.test.js
-const { saveUserScores, getUserScores } = require('.localStorageUtil');
+const { saveUserScores, getUserScores } = require('../localStorageUtil');
 
 beforeEach(() => {
   // Clear local storage before each test
