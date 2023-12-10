@@ -1,7 +1,6 @@
 // scores.test.js
 
 const { openScore } = require('/workspace/jest-test/scripts/scores.js');
-
 beforeEach(() => {
     // Mock localStorage
     global.localStorage = {
