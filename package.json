@@ -118,7 +118,7 @@
     "http-proxy-agent": "^4.0.1",
     "https-proxy-agent": "^5.0.1",
     "human-signals": "^1.1.1",
-    "iconv-lite": "^0.4.24",
+    "iconv-lite": "^0.6.3",
     "import-local": "^3.1.0",
     "imurmurhash": "^0.1.4",
     "inflight": "^1.0.6",
