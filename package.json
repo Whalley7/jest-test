@@ -259,7 +259,7 @@
     "rsvp": "^4.8.5",
     "safe-regex": "^1.1.0",
     "safer-buffer": "^2.1.2",
-    "sane": "^4.1.0",
+    "sane": "^5.0.1",
     "saxes": "^5.0.1",
     "semver": "^6.3.1",
     "set-blocking": "^2.0.0",
